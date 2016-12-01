@@ -20,3 +20,13 @@ Streamer/target/classes/META-INF/MANIFEST.MF
 *.MF
 
 *.MF
+
+*.xml
+
+*.xml
+
+Streamer/pom.xml
+
+Streamer/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_4.xml
+
+*.pyc
